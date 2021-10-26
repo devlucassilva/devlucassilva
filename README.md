@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello! / Olá! 👋
 
-<!--
-**devlucassilva/devlucassilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying Java and C! / Estou atualmente estudando Java e C!
+- 🌱 I’m also on my 2nd semester of Computer Science / Eu também estou no segundo semestre de Ciência da Computação!
+- 📫 How to reach me / você pode me contactar em: dev.silva.lucas@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/devlucassilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlucassilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucassilva&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
