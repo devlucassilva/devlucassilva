@@ -1,8 +1,8 @@
 ### Hello! / Olá! 👋
 
-- 🔭 I’m currently studying Java and C! / Estou atualmente estudando Java e C!
+- 🔭 I’m currently studying C#! / Estou atualmente estudando C#!
 - 🌱 I’m also on my 3rd semester of Computer Science / Eu também estou no terceiro semestre de Ciência da Computação!
-- 📫 How to reach me / você pode me contactar em: dev.silva.lucas@gmail.com
+- 📫 How to reach me: dev.silva.lucas@gmail.com / você pode me contactar em: dev.silva.lucas@gmail.com
 
 <div align="center">
   <a href="https://github.com/devlucassilva">
